@@ -1,4 +1,4 @@
-<style:"background-color:red;">
+
 
 <h2><b>Opa, bão ?</b></h2> <br>
 - 👋 Meu nome é João Vitor, tenho 22 ano e moro em Betim (MG) <br>
