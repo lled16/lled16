@@ -1,3 +1,5 @@
+<style:"background-color:red;">
+
 <h2><b>Opa, bão ?</b></h2> <br>
 - 👋 Meu nome é João Vitor, tenho 22 ano e moro em Betim (MG) <br>
 - 👨‍💻 Atualmente desenvolvo páginas WEB em PHP, utilizando HTML5, CSS3, Bootstrap, Materialize e um pouco de JS, para o banco utilizo SQL <br>
