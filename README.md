@@ -1,7 +1,7 @@
 - 👋 Eai, meu nome é João Vitor, tenho 22 ano e moro em Betim (MG)
 - 👀 Estou interessado em vagas ou quaisquer oportunidades na área de desenvolvimento WEB em C# .NET MVC ou PHP
 - 🌱 Atualmente estou estudando C# .NET MVC 
-- 📫 Como me contatar: 
+- 📫 Como me contatar: <br>
 Linkedin: https://www.linkedin.com/in/joão-vitor-664a56170/
 E-mail: vitoralves1604@gmail.com
 Whatsapp: (31) 9 9384-6152
