@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">Opa, bão ?</h2> <br>
+<h2 style="color:red;">Opa, bão ?</h2> <br>
 - 👋 Eai, meu nome é João Vitor, tenho 22 ano e moro em Betim (MG) <br>
 - 👨‍💻 Atualmente desenvolvo páginas WEB em PHP, utilizando HTML5, CSS3, Bootstrap, Materialize e um pouco de JS, para o banco utilizo SQL <br>
 - 👀 Estou interessado em vagas ou quaisquer oportunidades na área de desenvolvimento WEB em C# .NET MVC ou PHP <br>
