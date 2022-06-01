@@ -1,10 +1,10 @@
 
 
 <h2><b>Opa, bão ?</b></h2> <br>
-- 👋 Meu nome é João Vitor, tenho 22 ano e moro em Betim (MG) <br>
-- 👨‍💻 Atualmente desenvolvo páginas WEB em PHP, utilizando HTML5, CSS3, Bootstrap, Materialize e um pouco de JS, para o banco utilizo SQL <br>
+- 👋 Meu nome é João Vitor, tenho 22 anos e moro em Betim (MG) <br>
+- 👨‍💻 Atualmente desenvolvo páginas WEB, utilizando HTML5, CSS3, Bootstrap, Materialize e um pouco de JS, para o banco utilizo SQL <br>
 - 👀 Estou interessado em vagas ou quaisquer oportunidades na área de desenvolvimento WEB em C# .NET MVC ou PHP <br>
-- 🌱 Atualmente estou estudando C# .NET MVC  <br>
+- 🌱 Atualmente estou estudando C# .NET MVC e JAVASCRIPT <br>
 - 📫 Como me contatar: <br>
 <br><b>Linkedin:</b> https://www.linkedin.com/in/joão-vitor-664a56170/
 <br><b>E-mail:</b> vitoralves1604@gmail.com
