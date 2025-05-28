@@ -1,10 +1,10 @@
 
 
 <h2><b>Opa, bão ?</b></h2> <br>
-- 👋 Meu nome é João Vitor, tenho 24 anos e moro em Betim (MG) <br>
-- 👨‍💻 Atualmente desenvolvo integrações entre sistemas, serviços e api's rest utilizando .NET. Além de páginas web utilizando ReactJS <br>
-- 👀 Estou interessado em vagas ou quaisquer oportunidades na área de desenvolvimento WEB Backend ou FullStack em C# .NET | ReactJS <br>
-- 🌱 Atualmente estou estudando ReactJS <br>
+- 👋 Meu nome é João Vitor, tenho 25 anos e moro em Betim (MG) <br>
+- 👨‍💻 Atualmente desenvolvo integrações entre sistemas, serviços e api's rest utilizando .NET. <br>
+- 👀 Estou interessado em vagas ou quaisquer oportunidades na área de Backend em C# .NET <br>
+- 🌱 Atualmente estou estudando Design Patterns <br>
 - 📫 Como me contatar: <br>
 <br><b>Linkedin:</b> https://www.linkedin.com/in/joão-vitor-664a56170/
 <br><b>E-mail:</b> vitoralves1604@gmail.com
